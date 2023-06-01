@@ -1,4 +1,4 @@
-# KPI_24
+#KPI_24
 
 bool stoneGame(int* piles, int pilesSize) {
     int dp[pilesSize][pilesSize];
